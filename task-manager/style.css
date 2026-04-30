@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    width: 350px;
+    margin: 80px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 6px;
+}
+
+h2 {
+    text-align: center;
+}
+
+input {
+    width: 70%;
+    padding: 8px;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+li {
+    margin-top: 10px;
+}
+
+.deleteBtn {
+    margin-left: 10px;
+    background-color: red;
+}
